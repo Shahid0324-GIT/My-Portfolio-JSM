@@ -8,6 +8,7 @@
  - React with Vite
  - SCSS for nested styling
  - React Tooltip
+ - Motion Framer for all the gorgeous animations
 
 **Backend**:
  - Sanity for managing the database and adding or editing any details used in the project on the go!
